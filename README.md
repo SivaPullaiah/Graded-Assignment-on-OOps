@@ -10,3 +10,10 @@ Test case 3:
 <img width="326" alt="output3" src="https://github.com/SivaPullaiah/Graded-Assignment-on-OOps/assets/93705673/c68de4e3-52b2-4298-b8bc-46984af6b6ca">
 
 </pre>
+
+<pre>
+  Rent a Ride:
+  output:
+  <img width="239" alt="output" src="https://github.com/SivaPullaiah/Graded-Assignment-on-OOps/assets/93705673/437dffa2-7a9a-4cc4-b05e-a39ccf9eb2cb">
+
+</pre>
